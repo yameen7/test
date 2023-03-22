@@ -1,0 +1,28 @@
+form input{
+    padding: 8px;
+    margin: 15px;
+    width: 300px;
+}
+input[type='submit']{
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    width: 80px;
+    text-align: center;
+    border: none;
+}
+form{
+    margin-left: 30%;
+    margin-top: 10%;
+}
+p{
+    color: red;
+    font-size: 12px;
+    margin-left: 2%;
+}
+h1{
+    color: violet;
+}
+h3{
+    text-align: center;
+}

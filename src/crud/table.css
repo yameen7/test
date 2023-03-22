@@ -1,0 +1,41 @@
+.table{
+    display: flex;
+    margin-top: 80px;
+    justify-content: center;
+    position: relative;
+}
+th{
+    background-color: tan;
+    padding: 15px;
+
+}
+.update{
+    background-color:orange;
+}
+.add{
+    background-color: green;
+    width: 150px;
+    position: absolute;
+    top: 10px;
+    right: 345px;
+    /* float: right; */
+}
+table td{
+    text-align: center;
+    width: 100px;
+    padding: 15px;
+    border-bottom: 2px solid blue;
+}
+.delete{
+    background-color: red;
+}
+button{
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    width: 80px;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+}
